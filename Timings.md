@@ -17,5 +17,7 @@ Note: Takes longer cause it has to load in Many Items and Blocks
 # Computer Info
 
 > Ram: 3 GB
+
 > Processor: Intel i5 6500 Quad core
+
 > Storage: 8GB
