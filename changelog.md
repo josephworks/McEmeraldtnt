@@ -17,3 +17,11 @@ Added WorldEditCui so you can see wour worldedit selections on vanilla servers w
 Added mods from Emeraldtnt Client
 
 Added popular and essential mods for Emeraldtnt's gameplay
+
+## Emeraldtnt Adventure
+
+Added mods from Emeraldtnt core
+
+Added mods from Roguelike Adventures and Dungeons
+
+Added Coins
