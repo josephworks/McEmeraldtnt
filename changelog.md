@@ -12,7 +12,7 @@ Added Hacks with ForgeWurst
 
 Added WorldEditCui so you can see wour worldedit selections on vanilla servers with the worldedit plugin.
 
-### You can now host servers with your Emeraldtnt Clients
+#### You can now host servers with your Emeraldtnt Clients
 
 ## Emeraldtnt core
 
@@ -20,7 +20,7 @@ Added mods from Emeraldtnt Client
 
 Added popular and essential mods for Emeraldtnt's gameplay
 
-### You can now host servers with your Emeraldtnt Clients
+#### You can now host servers with your Emeraldtnt Clients
 
 ## Emeraldtnt Adventure
 
@@ -30,4 +30,4 @@ Added mods from Roguelike Adventures and Dungeons
 
 Added Coins
 
-### You can now host servers with your Emeraldtnt Clients
+#### You can now host servers with your Emeraldtnt Clients
