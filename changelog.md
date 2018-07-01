@@ -30,4 +30,8 @@ Added mods from Roguelike Adventures and Dungeons
 
 Added Coins
 
+Removed Buggged Mods (Chisel, CTM)
+
+Added archemedies ships mod (Davincis Vessles)
+
 #### You can now host servers with your Emeraldtnt Clients
