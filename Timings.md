@@ -16,7 +16,7 @@ Note: Takes longer cause it has to load in Many Items and Blocks
 
 # Computer Info
 
-> Ram: 3 GB
+> Ram: 3 GB - 4 GB Recommended
 
 > Processor: Intel i5 6500 Quad core
 
