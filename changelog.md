@@ -1,4 +1,6 @@
-# Changelog
+# Changelog:
+
+# V1.0 - V1.1.1
 
 ## Emeraldtnt Client
 
@@ -33,5 +35,7 @@ Added Coins
 Removed Buggged Mods (Chisel, CTM)
 
 Added archemedies ships mod (Davincis Vessles)
+
+Fixed Import package
 
 #### You can now host servers with your Emeraldtnt Clients
