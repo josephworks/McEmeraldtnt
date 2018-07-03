@@ -1,5 +1,15 @@
 # Changelog:
 
+# V1.5
+
+## Emeraldtnt Client
+
+## Emeraldtnt Core
+
+## Emeraldtnt Adventure
+
+---
+
 # V1.0 - V1.1.1
 
 ## Emeraldtnt Client
@@ -16,7 +26,7 @@ Added WorldEditCui so you can see wour worldedit selections on vanilla servers w
 
 #### You can now host servers with your Emeraldtnt Clients
 
-## Emeraldtnt core
+## Emeraldtnt Core
 
 Added mods from Emeraldtnt Client
 
