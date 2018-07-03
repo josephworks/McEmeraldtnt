@@ -10,9 +10,17 @@ Removed DiscordIntegration
 
 Removed DiscordIntegration
 
+Removed WorldEditCui
+
 ## Emeraldtnt Adventure
 
 Removed DiscordIntegration
+
+Removed PortableCrafting Mod
+
+Removed WorldEditCui
+
+Removed Enchantment Descriptions cause it exhists in wawla
 
 ---
 
