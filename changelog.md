@@ -6,11 +6,15 @@
 
 Removed DiscordIntegration
 
+Added DiscordSuite
+
 ## Emeraldtnt Core
 
 Removed DiscordIntegration
 
 Removed WorldEditCui
+
+Added DiscordSuite
 
 ## Emeraldtnt Adventure
 
@@ -21,6 +25,10 @@ Removed PortableCrafting Mod
 Removed WorldEditCui
 
 Removed Enchantment Descriptions cause it exhists in wawla
+
+Added DiscordSuite
+
+Added Voltz Engine and Coding Lib
 
 ---
 
