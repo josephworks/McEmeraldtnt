@@ -4,9 +4,15 @@
 
 ## Emeraldtnt Client
 
+Removed DiscordIntegration
+
 ## Emeraldtnt Core
 
+Removed DiscordIntegration
+
 ## Emeraldtnt Adventure
+
+Removed DiscordIntegration
 
 ---
 
