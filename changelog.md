@@ -30,6 +30,8 @@ Added DiscordSuite
 
 Added Voltz Engine and Coding Lib
 
+Removed The Lost Cities - Does not load in / freases the game
+
 ---
 
 # V1.0 - V1.1.1
