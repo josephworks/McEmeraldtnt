@@ -4,6 +4,8 @@
 
 Create discord server
 
+Add Plugin support
+
 ## Emeraldtnt Client
 
 Add DiscordIntegration After discord server is created
