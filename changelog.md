@@ -16,6 +16,14 @@ Removed WorldEditCui
 
 Added DiscordSuite
 
+Added EnderUtilities
+
+Added EnderTanks
+
+Added Iron Chests
+
+Added Telepad
+
 ## Emeraldtnt Adventure
 
 Removed DiscordIntegration
@@ -31,6 +39,14 @@ Added DiscordSuite
 Added Voltz Engine and Coding Lib
 
 Removed The Lost Cities - Does not load in / freases the game
+
+Added EnderUtilities
+
+Added EnderTanks
+
+Added Iron Chests
+
+Added Telepad
 
 ---
 
