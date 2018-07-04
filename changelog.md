@@ -62,7 +62,7 @@ Added various tweaks to the client mechanics
 
 Added Hacks with ForgeWurst
 
-Added WorldEditCui so you can see wour worldedit selections on vanilla servers with the worldedit plugin.
+Added WorldEditCui so you can see your worldedit selections on vanilla servers with the worldedit plugin.
 
 #### You can now host servers with your Emeraldtnt Clients
 
